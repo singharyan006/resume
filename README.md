@@ -1,116 +1,63 @@
-# Aryan Singh
-#### Aspiring Full-Stack Developer | Open Source Learner
+# ARYAN SINGH
 
-<div align="center">
-  <a href="mailto:aryanraisingh2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red" alt="Email"></a>
-  <a href="https://github.com/singharyan006"><img src="https://img.shields.io/badge/GitHub-singharyan006-blue?logo=github" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/aryansingh006"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
-</div>
++91 92389 32687 | Chennai, India  
+[aryanraisingh2006@gmail.com](mailto:aryanraisingh2006@gmail.com) | [LinkedIn](https://linkedin.com/in/aryansingh006) | [GitHub](https://github.com/singharyan006)
 
----
+## Objective
 
-## 👨‍💻 About Me
-I'm a second-year Computer Science student passionate about building impactful web-based solutions and growing as a full-stack developer. My current focus is on strengthening my React and backend skills while diving into open source development. I'm a core technical team member of the Alexa Developers SRM Club and have recently completed an AWS cloud virtual internship. I'm eager to join GSSoC 2025 to learn, contribute, and grow alongside a vibrant community of developers.
+Passionate full-stack software engineer with hands-on experience in web development, software development, and open-source contributions. Seeking opportunities to build scalable applications.
 
----
+## Education
 
-## 🎓 Education
-**SRM Institute of Science and Technology, Chennai**  
-*B.Tech, Computer Science & Engineering*  
-*2024 – 2028*  
-- CGPA: 9.2/10 (1st year)  
-- Relevant Coursework: DSA, OOP, Programming for Problem Solving (PPS), Web Development
+**B.Tech (CSE), SRM Institute of Science and Technology, KTR**  
+Expected 2028  
+Relevant Coursework: Data Structures, Algorithms, Database Management, OOPs
 
----
+## Skills
 
-## 💻 Technical Skills
+**Programming:** Java, Python, JavaScript, C++, C, SQL, HTML, CSS  
+**Frameworks:** FastAPI, Next.js, JavaFX, React, Express.js  
+**Databases:** PostgreSQL, Supabase, SQL  
+**Tools:** Git, GitHub, VS Code, Postman, IntelliJ, PyCharm, Jupyter Notebook, Figma  
+**Core Competencies:** Full-stack development, REST APIs
 
-**Languages:**  
-- JavaScript, Python, C++, Java, HTML/CSS
+## Experience
 
-**Frameworks & Libraries:**  
-- React.js, Node.js (learning), Express.js (basics), Bootstrap
+### Open Source Contributor
+**GSSoC (GirlScript Summer of Code)**  
+July 2025 - September 2025
 
-**Tools & Technologies:**  
-- Git & GitHub, Firebase, AWS Cloud (Basics), Postman, VS Code, Basic Linux CLI
+- Contributed to 3 projects (HrRoadways, DocAtHome, etc.) with 6+ merged PRs, including 3 complex features.
+- Demonstrated proficiency in industry-standard Git workflows, including branching, rebasing, and code reviews.
+- Collaborated with open-source maintainers on feature development and bug fixes.
 
-**Databases:**  
-- MongoDB (basics), MySQL
+### Technical Executive
+**Alexa Developers Club, SRM**  
+Chennai, SRM KTR | Present
 
----
+- Organized and led 10+ technical workshops and coding sessions for 200+ students on Git tutorials and web development best practices.
+- Developed and maintained an event registration portal with full-stack implementation (frontend and backend).
+- Led a team of 5 developers to build Apex Task Manager, a web-based task management application.
 
-## 🚀 Projects
+## Projects
 
-### Rock-Paper-Scissors  
-[GitHub Repo](https://github.com/singharyan006/rock-paper-scissors)  
-- Classic browser-based game using vanilla JavaScript.  
-- Features interactive UI, score tracking, and clean game logic.
+### UniMate
+**Next.js | TypeScript | Supabase | Clerk | Tailwind CSS | Jitsi | Resend**
 
-### SkyWatch  
-[GitHub Repo](https://github.com/singharyan006/skywatch)  
-- Weather web app that fetches and displays real-time weather data.  
-- Built with JavaScript and OpenWeather API; supports city-based search and dynamic UI updates.
+Full-stack counseling platform connecting students with verified college consultants. Features real-time video consultations, appointment slot booking, and admin verification workflows. Deployed and handling 500+ concurrent users.
 
-### Battleship  
-[GitHub Repo](https://github.com/singharyan006/battleship)  
-- Implementation of the classic Battleship game in the browser.  
-- JavaScript-based, includes grid UI, ship placement, and turn-based mechanics.
+### RideSecure
+**Java 17 | JavaFX | Python | FastAPI | YOLOv8 | DeepSORT | OpenCV | Supabase | Maven**
 
-### Knight-Travails  
-[GitHub Repo](https://github.com/singharyan006/knight-travails)  
-- Finds the shortest path for a knight on a chessboard using algorithms.  
-- Focuses on data structures and algorithmic problem-solving (BFS).
+Developed a full-stack computer vision system for real-time motorcycle helmet violation detection. Built a JavaFX desktop frontend for video upload and violation tracking and a Python FastAPI backend for ML inference with 95% accuracy.
 
-### Algo Practice  
-[GitHub Repo](https://github.com/singharyan006/algo-practice)  
-- Repository of solved algorithmic challenges and coding exercises.  
-- Includes code in JavaScript language with explanations and test cases.
+### Dolt
+**Electron.js | Tailwind CSS | MCP Server | Claude Desktop**
 
-### Netflix Clone  
-[GitHub Repo](https://github.com/singharyan006/netflix-clone)  
-- Responsive web clone of the Netflix homepage.  
-- Built with React.js, styled-components, and dummy data for UI demonstration.
+Lightweight, always-on-top desktop to-do list widget built with Electron.js. Features a draggable interface for minimal distraction and seamless task management without opening full applications.
 
----
+## Extra-Curricular Activities
 
-## 👨‍💼 Experience
-
-### Tech Member  
-**Alexa Developers SRM Club**  
-*Sept 2024 – Present*  
-- Working on club's technical initiatives and internal projects  
-- Participated in workshops and assisted in mentorship activities  
-- Collaborated with developers to promote voice-tech and open source
-
-### AWS Cloud Virtual Internship  
-**by AWS Academy**  
-*May 2024 – July 2024*  
-- Gained hands-on exposure to core AWS services  
-- Completed modules on EC2, S3, IAM, Lambda, and CloudWatch  
-- Built small-scale deployments to understand real-world cloud usage
-
----
-
-## 📜 Certifications
-
-- **AWS Cloud Virtual Internship** – AWS Academy (2024)  
-- **NPTEL Courses** – Programming(OOP) and Cloud (2024)  
-- Multiple **Hackathon Participation Certificates** – Intra-college (2024–2025)
-
----
-
-## 🌱 Open Source Goals (GSSoC '25)
-
-- Kickstart my open source journey by contributing to beginner-friendly repositories  
-- Learn collaborative development practices and Git workflows  
-- Improve debugging, issue tracking, and code review skills  
-- Work with a team and learn from experienced maintainers and contributors  
-- Build long-term confidence to contribute to larger-scale real-world projects
-
----
-
-## 📫 Contact Me
-
-- **Email:** aryanraisingh2006@gmail.com  
-- **GitHub:** [singharyan006](https://github.com/singharyan006)  
-- **LinkedIn:** [Aryan Singh](https://linkedin.com/in/aryansingh006)
+- Maintained a consistent GitHub coding streak of 245+ days (2024-2025) with active contributions across multiple repositories.
+- Participated in multiple internal hackathons, securing Top 5 positions with innovative project implementations.
+- Completed the JPMorgan Chase and Co. Software Engineering Job Simulation program (Forage).
